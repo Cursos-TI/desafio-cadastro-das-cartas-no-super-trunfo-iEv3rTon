@@ -148,7 +148,6 @@ int main() {
     // calcular super poder
     superPoder1 = (float) (populacao1 + area1 + pib1 + pontosTuristicos1 + pibPerCapital1) / densidadePopulacional1;
     printf("Super Poder: %f", superPoder1);
-
     
 
 
